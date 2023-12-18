@@ -60,7 +60,7 @@ python dictionaries/word_frequency.py
 
 Jared Amima
 
-### Email 
+### Email :
 jaredamima4@.com 
 
 ### License
