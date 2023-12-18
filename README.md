@@ -1,3 +1,7 @@
+# Data Structures and Algorithms Project
+
+This project includes Python implementations for various functions related to stacks, sequences (lists/tuples), and dictionaries.
+
 from stacks.balanced_parentheses import is_balanced
 
 expression1 = "([]{})"
